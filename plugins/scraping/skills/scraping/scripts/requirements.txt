@@ -1,0 +1,5 @@
+requests
+curl_cffi
+selectolax
+# optional, for article text extraction:
+trafilatura

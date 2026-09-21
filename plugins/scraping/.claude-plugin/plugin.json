@@ -1,0 +1,13 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "How to read a source, choose the cheapest honest path, diagnose a refusal, survive being killed and catch silent wrong data, plus every scraping tool with its strengths, limits and status.",
+  "author": {
+    "name": "Murtadha Najem",
+    "url": "https://github.com/murtadha203"
+  },
+  "homepage": "https://github.com/murtadha203/scraping-skill",
+  "repository": "https://github.com/murtadha203/scraping-skill",
+  "license": "MIT",
+  "keywords": ["scraping", "crawling", "skill", "curl_cffi", "scrapy", "playwright", "trafilatura", "arabic"]
+}

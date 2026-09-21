@@ -1,0 +1,24 @@
+{
+  "name": "scraping-skill",
+  "owner": {
+    "name": "Murtadha Najem",
+    "url": "https://github.com/murtadha203"
+  },
+  "metadata": {
+    "description": "A Claude Code skill that teaches a way of thinking about web scraping, with an encyclopedia of 170 tools.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "scraping",
+      "source": "./plugins/scraping",
+      "description": "How to read a source, choose the cheapest honest path, diagnose a refusal, survive being killed and catch silent wrong data, plus every scraping tool with its strengths, limits and status.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Murtadha Najem"
+      },
+      "license": "MIT",
+      "keywords": ["scraping", "crawling", "skill", "curl_cffi", "scrapy", "playwright", "trafilatura", "arabic"]
+    }
+  ]
+}
