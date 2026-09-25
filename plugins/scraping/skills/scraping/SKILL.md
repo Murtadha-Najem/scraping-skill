@@ -90,7 +90,7 @@ hypothesis to re-measure on a short probe, not a promise. Keep field notes per s
 
 ## Neighbours
 
-Skills for adjacent jobs, if you have them: a browser-driving skill such as [browser-use](https://github.com/murtadha203/browser-use-skill) for opening a site, clicking, logging in and forms; a PDF, spreadsheet or
+Skills for adjacent jobs, if you have them: a browser-driving skill such as [browser-use](https://github.com/Murtadha-Najem/browser-use-skill) for opening a site, clicking, logging in and forms; a PDF, spreadsheet or
 document skill for deliverables; a data-quality skill for field-collected survey data.
 
 ## Delivering

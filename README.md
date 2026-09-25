@@ -47,7 +47,7 @@ Each tool entry says what it is, what it does better than its neighbours and why
 As a Claude Code plugin:
 
 ```
-/plugin marketplace add murtadha203/scraping-skill
+/plugin marketplace add Murtadha-Najem/scraping-skill
 /plugin install scraping@scraping-skill
 ```
 
@@ -80,7 +80,7 @@ Every source is run by someone, and your requests spend their capacity. The skil
 
 ## Related
 
-[browser-use skill](https://github.com/murtadha203/browser-use-skill): routes browser tasks (clicking, forms, logins) to the fastest tool. This skill is for the collection itself.
+[browser-use skill](https://github.com/Murtadha-Najem/browser-use-skill): routes browser tasks (clicking, forms, logins) to the fastest tool. This skill is for the collection itself.
 
 ## License
 
